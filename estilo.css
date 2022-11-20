@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.fic{
+    background-color:black ; 
+    position: fixed;
+    width: 100%;
+    height: 180px ;
+    opacity: 100%;
+}
+.seta{
+    z-index: 1;
+    widows: 150px; 
+    height: 180px;
+  margin-left:70px;
+}
+.Pesquisa{
+    z-index: 2;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    width: 55%;
+
+    height:30px ;
+border-radius:50px ;
+}
+.mn{
+    z-index: 1;
+    widows: 130px; 
+    height:150px ;
+   margin-right:70px;
+   position: absolute;
+   top:9px;
+   right:25px ;
+  
+}
+
+h1{
+    z-index: 2;
+    font-size: 300%;
+    color: white;
+    position: absolute;
+    top: 30%;
+    right: 15%;
+    font-family: 'Inter', sans-serif;
+}
+.d1{
+    z-index: 2;
+color:white ;
+position: absolute;
+top: 120px;
+left: 20%;
+font-family: 'Inter', sans-serif;
+}
+.d2{
+    z-index: 2;
+color: white;
+position: absolute;
+top: 120px;
+left: 35%;
+font-family: 'Inter', sans-serif;
+}
+.d3{
+    z-index: 2;
+    color: white;
+position: absolute;
+top: 120px;
+left: 50%;
+font-family: 'Inter', sans-serif;
+}
+.d4{
+    z-index: 2;
+    color: white;
+position: absolute;
+top: 120px;
+left: 65%;
+font-family: 'Inter', sans-serif;
+}
+.bv{
+    background-color:#9EF01A ;
+    position: fixed;
+    top: 180px;
+    width:100% ;
+    height: 2%;
+}
+.bv1{
+    background-color:#70E000 ;
+    position: fixed;
+    top: 197px;
+    left: 0%;
+    width: 65% ;
+    height: 2%;
+    border-bottom-right-radius: 1vw;
+}
+.bb{
+    background-color:black ; 
+    position:absolute;
+    top:217px ;
+    width: 15%;
+    height: 275% ;
+    opacity: 100%;
+    z-index: -1;
+}
+.bh{
+    position: relative;
+    background-color: #9EF01A ;
+    left: 90%;
+    top: 0;
+    width: 10% ;
+    height: 100%;
+}
+.qq{
+    position: relative;
+    width: 100% ;
+    height: 100% ;
+    z-index: -1;    
+    overflow: hidden;
+}
+#danielg{position: absolute;
+    top: 20%;
+    width: 85%;
+    left: 15%;
+    height: 75%;
+    overflow: hidden;
+}
+
+#RodaPe{position: absolute;
+top: 300%;
+width: 100%;
+height: 50%;
+background-color: black;
+
+border-top: #9EF01A dashed 0.8vw;
+}
+
